@@ -1,7 +1,5 @@
 # Ecommerce-API-Testing-Postman
-API Testing Project using Postman and DummyJSON APIs.
 
-# Ecommerce API Testing Project
 
 ## Objective
 
@@ -29,11 +27,12 @@ https://dummyjson.com
 ## Files
 
 - Collection
-- Environment
 - Documentation
+- Environment
 - Reports
 - Screenshots
+- Test data
 
 ## Author
 
-Your Name
+Prashant Jadhav
