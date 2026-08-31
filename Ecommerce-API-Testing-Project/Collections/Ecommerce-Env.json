@@ -1,0 +1,22 @@
+{
+	"id": "3c2aba19-d670-4030-913b-c491f77cf48b",
+	"name": "DummyJSON",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-08-31T18:50:10.795Z",
+	"_postman_exported_using": "Postman/12.25.7"
+}
